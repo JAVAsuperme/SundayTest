@@ -2,3 +2,4 @@ Today is sunday!
 edit by master
 and
 edit by hot_fix
+Test clone
